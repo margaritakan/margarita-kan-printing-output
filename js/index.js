@@ -7,7 +7,7 @@ let c;
 let output_task_1 = "TASK 1" + "\n" + "\n" + 
             'let a = ' + a + '; '+ "\n" +  
             'let b = ' + b + '; ' + "\n" + 
-            'let c = ' + "\n" + 
+            'let c ' + "\n" + 
             "-----------------------" + "\n"; 
 
 output_task_1 = output_task_1 + 
